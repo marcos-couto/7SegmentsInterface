@@ -2,8 +2,8 @@
 ## Project Description: 
 7-Segment Display with 74HC595, ULN2803A, and SPI Interface
 ![Interface Board](/Images/ASTDC01V01.png "Interface Board")
-![B Board](/Images/BBoard.png "B Board")
-![F Board](/Images/FBoard.png "F Board")
+![B Board](/Images/Board.png "B & F Board")
+
 
 ## Overview:
 This project aims to create a simple yet effective interface for a 7-segment display using common components like the 74HC595 shift register, ULN2803A darlington array, and SPI communication with a microcontroller. The combination of these components allows for efficient control of the 7-segment display using minimal pins on the microcontroller.
